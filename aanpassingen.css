@@ -1,0 +1,137 @@
+
+body,
+
+#menu-48 .mbr-navbar__items a {font-family: 'verdana', sans-serif;
+								font-size: 14px;
+								color:black;
+}
+
+#menu-24 .mbr-navbar__items a {font-family: 'verdana', sans-serif;
+								font-size: 14px;
+								color:black;
+}
+
+#menu-72 .mbr-navbar__items a {font-family: 'verdana', sans-serif;
+								font-size: 14px;
+								color:white;
+}
+
+#menu-96 .mbr-navbar__items a {font-family: 'verdana', sans-serif;
+								font-size: 14px;
+								color:white;				
+}
+
+
+a:hover {
+  text-decoration: none;
+}
+
+.mbr-buttons {margin-left: -50px;
+				margin-top:5px;
+	
+}
+
+#header4-66 P {font-family: 'courier', sherif;
+				font-size: 18px;
+				text-align:left;
+				margin-left: 180px;
+				}
+
+#header4-66 H1 {font-family: 'courier', sherif;
+				font-size: 30px;
+				text-align:left;
+				margin-left: 180px;
+				
+}
+
+#slider2-39 P {font-family: 'courier', sans-serif;
+				font-size: 15px;  
+				margin-left:60px;
+
+}
+
+#slider-33 P {font-family: 'courier', sans-serif;
+ 			 font-size: 18px;
+			 margin-left:180px;
+}
+
+#slider-34 P {font-family: 'courier', sans-serif;
+ 			 font-size: 18px;
+			 margin-left:180px;
+}
+
+#slider2-34 P {font-family: 'courier', sans-serif;
+ 			 font-size: 18px;
+			 margin-left:80px;
+}
+
+#slider2-42 P {font-family: 'courier', sans-serif;
+ 			 font-size: 18px;
+			 margin-left:80px;
+}
+
+#slider-36 P {font-family: 'courier', sans-serif;
+ 			 font-size: 18px;
+			 margin-left:80px;
+			 
+}
+
+#slider2-36 P {font-family: 'courier', sans-serif;
+ 			 font-size: 18px;
+			 margin-left:80px;
+			 
+}
+
+
+#slider-37 P {font-family: 'courier', sans-serif;
+ 			 font-size: 18px;
+			 margin-left:180px;
+			 
+}
+
+#image1-39 P {font-family: 'courier', sans-serif;
+ 			font-size: 18px;
+}
+#image1-27 P {font-family: 'courier', sans-serif;
+ 				font-size: 18px;
+}
+#slider-38 P {font-family: 'courier', sans-serif;
+  				font-size: 18px;
+				margin-left:180px;
+
+}
+
+#slider2-39 P {font-family: 'courier', sans-serif;
+				font-size: 18px;
+				
+	}
+	
+#slider-39 P {font-family: 'courier', sans-serif;
+				font-size: 18px;
+				margin-left:180px;
+	}
+	
+	
+#content5-41 .mbr-article P {
+  font-family: 'courier', serif;
+  font-size: 20px;
+ 
+}	
+
+#content5-41 .mbr-header .mbr-header__text {
+  font-family: 'courier', serif;
+  font-size:30px;
+}	
+
+.mbr-slider .carousel-control {
+	border: 0px;
+}
+	
+.carousel-control {
+	color: #4E4E4E;	
+}
+	
+.mbr-footer {font-family: 'verdana', sans-serif;
+				font-size: 10px;
+}
+
