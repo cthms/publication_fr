@@ -28,7 +28,7 @@
 }
 .mbr-gallery .mbr-gallery-item .icon {
     position: absolute;
-    font-size: 20px;
+    font-size:20px;
     top: 50%;
     left: 50%;
     color: #fff;
@@ -99,7 +99,6 @@
     -o-transition: all 0.2s ease-in-out 0s;
     transition: all 0.2s ease-in-out 0s;
 }
-
 
 /* modal back color opacity */
 .modal-backdrop.in {
