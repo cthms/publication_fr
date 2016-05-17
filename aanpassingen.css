@@ -11,6 +11,12 @@ body,
 								color:black;
 }
 
+#menu-34 .mbr-navbar__items a {
+  font-family: 'verdana', sans-serif;
+								font-size: 14px;
+								color:black;
+}
+
 #menu-72 .mbr-navbar__items a {font-family: 'verdana', sans-serif;
 								font-size: 14px;
 								color:white;
@@ -19,6 +25,12 @@ body,
 #menu-96 .mbr-navbar__items a {font-family: 'verdana', sans-serif;
 								font-size: 14px;
 								color:white;				
+}
+
+#menu-42 .mbr-navbar__items a {
+  font-family: 'verdana', sans-serif;
+								font-size: 14px;
+								color:black
 }
 
 
@@ -55,6 +67,11 @@ a:hover {
 			 margin-left:180px;
 }
 
+#slider2-33 P {font-family: 'courier', sans-serif;
+ 			 font-size: 18px;
+			 margin-left:60px;
+}
+
 #slider-34 P {font-family: 'courier', sans-serif;
  			 font-size: 18px;
 			 margin-left:180px;
@@ -89,6 +106,12 @@ a:hover {
 			 
 }
 
+#slider2-37 P {font-family: 'courier', sans-serif;
+ 			 font-size: 18px;
+			 margin-left:60px;
+}
+
+
 #image1-39 P {font-family: 'courier', sans-serif;
  			font-size: 18px;
 }
@@ -99,6 +122,11 @@ a:hover {
   				font-size: 18px;
 				margin-left:180px;
 
+}
+
+#slider2-38 P {font-family: 'courier', sans-serif;
+  				font-size: 18px;
+				margin-left:60px;
 }
 
 #slider2-39 P {font-family: 'courier', sans-serif;
@@ -123,12 +151,22 @@ a:hover {
   font-size:30px;
 }	
 
+#content5-45 .mbr-article P {
+  font-family: 'courier', serif;
+  font-size:20px;
+}
+
+#content5-45 .mbr-header .mbr-header__text {
+ font-family: 'courier', serif;
+  font-size:30px;
+}
+
 .mbr-slider .carousel-control {
 	border: 0px;
 }
 	
 .carousel-control {
-	color: #4E4E4E;	
+	color: #3E3E3E;	
 }
 	
 .mbr-footer {font-family: 'verdana', sans-serif;

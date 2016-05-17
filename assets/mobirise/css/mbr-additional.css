@@ -37,6 +37,7 @@
 
 
 
+
 #menu-24 .mbr-brand__name {
   font-size: 16px;
 }
@@ -47,11 +48,10 @@
   font-family: 'Lato', sans-serif;
   font-size: 16px;
 }
-#slider2-39 P {
-  color: #000000;
-  font-family: 'Lora', serif;
-  font-size: 21px;
+#slider2-33 P {
   text-align: left;
+  font-family: 'Lora', serif;
+  color: #000000;
 }
 #slider-37 P {
   text-align: left;
@@ -61,6 +61,12 @@
   color: #1f2878;
   font-family: 'Lora', serif;
   font-size: 12px;
+}
+#slider2-39 P {
+  color: #000000;
+  font-family: 'Lora', serif;
+  font-size: 21px;
+  text-align: left;
 }
 #image1-27 P {
   font-family: 'Lora', serif;
@@ -158,46 +164,52 @@
 }
 
 
-#menu-96 .mbr-brand__name {
+
+#menu-34 .mbr-brand__name {
   font-size: 16px;
 }
-#menu-96.mbr-navbar--stuck .mbr-navbar__section {
+#menu-34.mbr-navbar--stuck .mbr-navbar__section {
   background: #ffffff;
 }
-#menu-96 .mbr-navbar__items a {
+#menu-34 .mbr-navbar__items a {
   font-family: 'Lato', sans-serif;
   font-size: 16px;
 }
-#slider2-36 P {
+#slider2-38 P {
   font-family: 'Lora', serif;
-  text-align: left;
-}
-
-
-
-#menu-96 .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-96.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
-}
-#menu-96 .mbr-navbar__items a {
-  font-family: 'Lato', sans-serif;
-  font-size: 16px;
-}
-#content5-41 .mbr-header .mbr-header__text {
   text-align: left;
   color: #000000;
-  font-family: 'Lora', serif;
 }
-#content5-41 .mbr-header .mbr-header__subtext {
+#slider2-37 P {
+  color: #000000;
+  font-family: 'Lora', serif;
+  text-align: left;
+}
+
+
+#menu-42 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-42.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#menu-42 .mbr-navbar__items a {
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+}
+#content5-45 .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #000000;
+}
+#content5-45 .mbr-header .mbr-header__subtext {
   text-align: center;
   color: #fff;
 }
-#content5-41 .mbr-article {
-  color: #000000;
+#content5-45 .mbr-article {
+  color: #fff;
 }
-#content5-41 .mbr-article P {
+#content5-45 .mbr-article P {
+  text-align: left;
   font-family: 'Lora', serif;
-  font-size: 18px;
+  color: #000000;
 }
